@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.cache
+dist/src.e31bb0bc.css
+dist/src.e31bb0bc.css.map
+dist/src.e31bb0bc.js
+dist/src.e31bb0bc.js.map
+.vscode/launch.json
